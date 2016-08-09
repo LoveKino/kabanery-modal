@@ -1,0 +1,28 @@
+{
+    "name": "kabanery-modal",
+    "version": "0.0.1",
+    "description": "modal widget for kabanery",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LoveKino/kabanery-modal.git"
+    },
+    "keywords": [
+        "modal",
+        "widget",
+        "dialog",
+        "kabanery"
+    ],
+    "author": "ddchen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/LoveKino/kabanery-modal/issues"
+    },
+    "homepage": "https://github.com/LoveKino/kabanery-modal#readme",
+    "link_dependencies": {
+        "kabanery": "~0.0.1"
+    }
+}
