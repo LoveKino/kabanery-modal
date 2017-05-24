@@ -1,6 +1,6 @@
 {
   "name": "kabanery-modal",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "modal widget for kabanery",
   "main": "index.js",
   "scripts": {
