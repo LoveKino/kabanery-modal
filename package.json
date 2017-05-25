@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/LoveKino/kabanery-modal#readme",
   "dependencies": {
-    "kabanery": "^0.2.2"
+    "kabanery": "^0.2.3"
   }
 }
